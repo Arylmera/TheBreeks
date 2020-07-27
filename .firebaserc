@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "thebreeks-cddcd"
+  },
+  "targets": {
+    "thebreeks-cddcd": {
+      "hosting": {
+        "TheBreeks": [
+          "thebreeks-cddcd"
+        ]
+      }
+    }
+  }
+}

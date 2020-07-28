@@ -12,6 +12,7 @@ import { ComputerComponent } from './computer/computer.component';
 import { HomeComponent } from './home/home.component';
 import {MatButtonModule} from '@angular/material/button';
 import {MatRippleModule} from '@angular/material/core';
+import { ContactSheetComponent } from './contact-sheet/contact-sheet.component';
 
 const routes: Routes = [
   {path: 'home', component: HomeComponent},
@@ -29,7 +30,8 @@ const routes: Routes = [
     PhotographyComponent,
     SmartHomeComponent,
     ComputerComponent,
-    HomeComponent
+    HomeComponent,
+    ContactSheetComponent
   ],
   imports: [
     BrowserModule,

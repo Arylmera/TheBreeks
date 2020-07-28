@@ -1,5 +1,14 @@
 
+#component {
+  min-height: 100vh;
+  background-image: url("../../assets/pictures/computerSoon.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+
 #center {
-  color: #ffffff;
+  color: white;
   text-align: center;
+  padding-top: 3em;
 }
